@@ -7,3 +7,5 @@ Airdrop Dapp built with React, Wagmi and Subsquid using the following tools:
 - React
 - Next JS
 - Typescript
+
+Subquid EVM template - https://github.com/subsquid-labs/evm-transactions-example?ref=blog.subsquid.io 
